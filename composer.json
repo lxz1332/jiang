@@ -1,0 +1,13 @@
+{
+    "name": "cwkj/jiang",
+    "description": "分销奖励",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"cwkj\\jiang\\":"src/"
+		}
+	}
+}
