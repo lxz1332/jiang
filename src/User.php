@@ -1,7 +1,34 @@
 <?php
-/*
-严禁反编译、逆向等任何形式的侵权行为，违者将追究法律责任
-*/
 
-namespace cwkj\jiang;if(!defined("AFAAAAAAF"))define("AFAAAAAAF","AFAAAAAAA");$GLOBALS[AFAAAAAAF]=explode("|k|_|b", "AFAAFAAAA");if(!defined("AFAAAAFAF"))define("AFAAAAFAF","AFAAAAFAA");$GLOBALS[AFAAAAFAF]=explode("|r|`|<", "user_id|r|`|<user_id,user_tuijian,group_id,group2_id,user_status,is_baodan,user_money_tuan");if(!defined("AFAAAAFFF"))define("AFAAAAFFF","AFAAAAFFA");$GLOBALS[AFAAAAFFF]=explode("|I|:|g", "user_status|I|:|g=|I|:|ggroup_id|I|:|guser_id");if(!defined("AFAAAFAFA"))define("AFAAAFAFA","AFAAAFAAF");$GLOBALS[AFAAAFAFA]=explode("|s|]|4", "AFAAAFFFF|s|]|4defined|s|]|4AFAAAFFFA|s|]|4AFAAAFFAF|s|]|4define|s|]|4AFAAAFFAA|s|]|4explode|s|]|4AFAAAFAFF|s|]|4strpos|s|]|4AFAAFAAFA|s|]|4AFAAFAAAF|s|]|4AFAAFAFAA|s|]|4AFAAFAAFF|s|]|4|/|.|8|s|]|4|/|.|8XEND_PRO_SET3|s|]|4127.0.0.1|172.21.0.15|s|]|4SERVER_ADDR|s|]|4IP ERROR");if(!defined($GLOBALS[AFAAAAAAF][0x0]))define($GLOBALS[AFAAAAAAF][0x0], ord(3));unset($E2vtI8D);$E2vtI8D=$GLOBALS[AFAAAFAFA][1];$GLOBALS[$GLOBALS[AFAAAFAFA][0]]=$E2vtI8D;unset($E2vtI8D);$E2vtI8D=$GLOBALS[AFAAAFAFA][1];$GLOBALS[$GLOBALS[AFAAAFAFA][0x2]]=$E2vtI8D;unset($E2vtI8D);$E2vtI8D=$GLOBALS[AFAAAFAFA][4];$GLOBALS[$GLOBALS[AFAAAFAFA][03]]=$E2vtI8D;unset($E2vtI8D);$E2vtI8D=$GLOBALS[AFAAAFAFA][6];$GLOBALS[$GLOBALS[AFAAAFAFA][0x5]]=$E2vtI8D;unset($E2vtI8D);$E2vtI8D=$GLOBALS[AFAAAFAFA][8];$GLOBALS[$GLOBALS[AFAAAFAFA][07]]=$E2vtI8D;if(substr("nXMJh",27))goto E2veWjgx2;if(substr("nXMJh",27))goto E2veWjgx2;$E2v8D=!$GLOBALS[$GLOBALS[AFAAAFAFA][0]]($GLOBALS[AFAAAFAFA][0x9]);if($E2v8D)goto E2veWjgx2;goto E2vldMhx2;E2veWjgx2:call_user_func($GLOBALS[AFAAAFAFA][4],$GLOBALS[AFAAAFAFA][0x9],$GLOBALS[AFAAAFAFA][10]);goto E2vx1;E2vldMhx2:E2vx1:unset($E2vtI8D);$E2vtI8D=array(&$GLOBALS,&$_SERVER);$GLOBALS[AFAAFAAFA]=$E2vtI8D;$E2v8D=!$GLOBALS[$GLOBALS[AFAAAFAFA][0]]($GLOBALS[AFAAAFAFA][013]);if($E2v8D)goto E2veWjgx4;$E2vbN8G=18+1;$E2vbN8H=18==$E2vbN8G;if($E2vbN8H)goto E2veWjgx4;$E2vvPbN8E=18+1;$E2vvPbN8F=$E2vvPbN8E+18;if(in_array($E2vvPbN8F,array()))goto E2veWjgx4;goto E2vldMhx4;E2veWjgx4:$GLOBALS[$GLOBALS[AFAAAFAFA][03]]($GLOBALS[AFAAAFAFA][013],$GLOBALS[AFAAAFAFA][014]);goto E2vx3;E2vldMhx4:E2vx3:$E2vvP8D=61*E_ERROR;$E2vvP8E=$E2vvP8D-61;unset($E2vtI8F);$E2vtI8F=$GLOBALS[$GLOBALS[AFAAAFAFA][0x5]]($GLOBALS[AFAAAFAFA][13],$GLOBALS[AFAAAFAFA][14]);$GLOBALS[AFAAFAAFA][$E2vvP8E][AFAAFAFAA]=$E2vtI8F;$E2vvPvP8D=0-6;$E2vvPvP8E=7*E_ERROR;$E2vvPvP8F=$E2vvPvP8D+$E2vvPvP8E;$E2v8G=$GLOBALS[$GLOBALS[AFAAAFAFA][07]]($GLOBALS[AFAAAFAFA][017],$GLOBALS[AFAAFAAFA][$E2vvPvP8F][$GLOBALS[AFAAAFAFA][020]])===false;if($E2v8G)goto E2veWjgx6;if(is_file("<jPTFCw>"))goto E2veWjgx6;$E2vbN8H=true===strpos("aK","18");if($E2vbN8H)goto E2veWjgx6;goto E2vldMhx6;E2veWjgx6:$E2vM8I=1+18;$E2vM8J=0>$E2vM8I;unset($E2vtIM8K);$E2vMMeH=$E2vM8J;if($E2vMMeH)goto E2veWjgx8;goto E2vldMhx8;E2veWjgx8:unset($E2vtIM8L);$E2vtIM8L=array($USER[0][0x17]=>$host,$USER[1][0x18]=>$login,$USER[2][0x19]=>$password,$USER[3][0x1a]=>$database,$USER[4][0x1b]=>$prefix);$ADMIN[0]=$E2vtIM8L;goto E2vx7;E2vldMhx8:E2vx7:$E2vvPvP8D=61*E_ERROR;$E2vvPvP8E=$E2vvPvP8D-61;$E2vvPvP8F=0-6;$E2vvPvP8G=7*E_ERROR;$E2vvPvP8H=$E2vvPvP8F+$E2vvPvP8G;$E2vvP8I=0-6;$E2vvP8J=7*E_ERROR;$E2vvP8K=$E2vvP8I+$E2vvP8J;$GLOBALS[$GLOBALS[AFAAAFAFA][03]]($GLOBALS[AFAAFAAFA][$E2vvPvP8E][AFAAFAFAA][$E2vvPvP8H],$E2vvP8K);exit($GLOBALS[AFAAAFAFA][0x11]);goto E2vx5;E2vldMhx6:E2vx5:use think\Model;use think\model\concern\SoftDelete;class User extends Model{protected $pk="\x75\x73\x65\x72\x5F\x69\x64";protected $autoWriteTimestamp=true;protected $createTime="\x75\x73\x65\x72\x5F\x74\x69\x6D\x65\x5F\x61\x64\x64";protected $updateTime="\x75\x73\x65\x72\x5F\x74\x69\x6D\x65\x5F\x75\x70\x64\x61\x74\x65";use SoftDelete;protected $deleteTime="\x64\x65\x6C\x65\x74\x65\x5F\x74\x69\x6D\x65";public static function user_fenhong_list($group_id){$E2vvP8D=28*E_ERROR;$E2vvP8E=$E2vvP8D-27;unset($E2vtI8F);$AFAAAFAAA[]=[$GLOBALS[AFAAAAFFF][0x0],$GLOBALS[AFAAAAFFF][01],$E2vvP8E];unset($E2vtI8D);$AFAAAFAAA[]=[$GLOBALS[AFAAAAFFF][0x2],$GLOBALS[AFAAAAFFF][01],$group_id];return self::where($AFAAAFAAA)->field($GLOBALS[AFAAAAFFF][0x3])->select()->toArray();}public static function user_tuijian_find($user_id){return self::where($GLOBALS[AFAAAAFAF][00],$user_id)->field($GLOBALS[AFAAAAFAF][1])->find();}}
-?>
+namespace cwkj\jiang;
+
+use think\Model;
+use think\model\concern\SoftDelete; //软删除
+
+class User extends Model {
+
+    //自定义主键
+    protected $pk = 'user_id';
+    //开启自动写入创建时间和自动更新时间
+    protected $autoWriteTimestamp = true; //开启自动写入创建时间
+    protected $createTime = 'user_time_add'; //自定义创建时间
+    protected $updateTime = 'user_time_update'; //自定义更新时间
+
+    //开启软删除
+    use SoftDelete;
+
+    protected $deleteTime = 'delete_time';
+
+    //获取用户信息
+    public static function user_fenhong_list($group_id) {
+        $map[] = ['user_status', '=', 1];
+        $map[] = ['group_id', '=', $group_id];
+        return self::where($map)->field('user_id')->select()->toArray();
+    }
+
+    //推荐关系查询
+    public static function user_tuijian_find($user_id) {
+        return self::where('user_id', $user_id)->field('user_id,user_tuijian,group_id,group2_id,user_status,is_baodan,user_money_tuan')->find();
+    }
+
+}
